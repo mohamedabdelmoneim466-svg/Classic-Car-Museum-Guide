@@ -24,7 +24,6 @@ A simple and interactive C++ console application that serves as a virtual tour o
 - **Language:** C++
 - **Logic:** `while` loop for continuous execution and `switch-case` for efficient menu routing.
 - **Safety:** Utilizes `std::numeric_limits` to clear input buffers and handle invalid data types.
-<img width="966" height="611" alt="Screenshot 2026-04-07 232135" src="https://github.com/user-attachments/assets/1959d020-a1f7-4ec4-a8fe-38ee9701fdfa" />
 
 ## 🚀 How to Run
 
